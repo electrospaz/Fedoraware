@@ -192,6 +192,7 @@
     <ClCompile Include="TeamFortress2\Hooks\Detours\Surface_OnScreenSizeChanged.cpp" />
     <ClCompile Include="TeamFortress2\Hooks\Detours\UniformRandomStream_RandInt.cpp" />
     <ClCompile Include="TeamFortress2\Hooks\Detours\UpdateNameFromSteamID.cpp" />
+    <ClCompile Include="TeamFortress2\Hooks\Detours\ViewRender_DrawViewModels.cpp" />
     <ClCompile Include="TeamFortress2\Hooks\Detours\ViewRender_LevelInit.cpp" />
     <ClCompile Include="TeamFortress2\Hooks\Detours\ViewRender_LevelShutdown.cpp" />
     <ClCompile Include="TeamFortress2\Hooks\Detours\ViewRender_PerformScreenSpaceEffects.cpp" />

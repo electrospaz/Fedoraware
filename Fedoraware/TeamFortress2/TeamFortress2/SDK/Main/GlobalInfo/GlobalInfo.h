@@ -67,6 +67,7 @@ struct GlobalInfo_t
 	std::map<int, int> chokeMap;
 	int tickShiftQueue = 0; // Ticks that shouls be shifted
 	bool m_bDrawingStaticProps = false;
+	bool m_bGlowingViewmodel = false;
 };
 
 inline GlobalInfo_t g_GlobalInfo;
